@@ -17,11 +17,11 @@ Wednesday - DevOps
 
 Thursday - Javascript/Typescript
 
--
+- Fazer exercicios e responder em js, py, go
 
 Friday
 
--
+- Fazer exercicios de SQL 
 
 Saturday 
 
